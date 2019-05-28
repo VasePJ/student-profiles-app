@@ -1,0 +1,54 @@
+body {
+    font-family: 'Lora', serif;
+    background-color: rgb(254, 244, 125);
+    font-size: medium;
+}
+
+.additionalInfo {
+    display: none;
+}
+
+.additionalInfo.show {
+    display: block;
+}
+
+#searchInput {
+    margin: 0 auto;
+}
+
+.additionalInfo {
+    display: none;
+}
+
+.additionalInfo.show {
+    display: block;
+}
+
+.toggleBtn {
+    color: black;
+    float: right;
+}
+
+.search {
+    color: white;
+}
+
+.tag {
+    padding: 5px;
+    background: gray;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.nav.navbar-default {
+    background-color: #337ab7;
+    height: 120px;
+}
+
+.form-control {
+    margin-top: 10px;
+}
+
+.col-md-10 {
+    width: 700px;
+}
